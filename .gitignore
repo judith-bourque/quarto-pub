@@ -3,4 +3,6 @@
 .RData
 .Ruserdata
 
+# Ignore output
 /.quarto/
+/_site/
